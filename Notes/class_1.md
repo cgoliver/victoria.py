@@ -4,8 +4,8 @@ $ python
 
 We get the python interpreter which is a program that understands instructions in the language Python.
 
->>> 2 + 2 
-4
+	2 + 2 
+	4
 
 We can get out of the python interpreter by hitting CTRL+D
 
